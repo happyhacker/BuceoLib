@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\HackLib\HackLib.csproj" />
+    <ProjectReference Include="..\..\HackLib\HackLib.csproj" />
   </ItemGroup>
 
 </Project>
