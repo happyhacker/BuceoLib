@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "BuceoLib/1.0.0": {
+        "dependencies": {
+          "HackLib": "1.0.0"
+        },
+        "runtime": {
+          "BuceoLib.dll": {}
+        }
+      },
+      "HackLib/1.0.0": {
+        "dependencies": {
+          "System.Web.Mvc": "3.0.0.1"
+        },
+        "runtime": {
+          "HackLib.dll": {}
+        }
+      },
+      "System.Web.Mvc.Reference/3.0.0.1": {
+        "runtime": {
+          "System.Web.Mvc.dll": {
+            "assemblyVersion": "3.0.0.1",
+            "fileVersion": "3.0.50813.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuceoLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HackLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Web.Mvc.Reference/3.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

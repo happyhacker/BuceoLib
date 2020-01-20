@@ -1,0 +1,13 @@
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\obj\Debug\netcoreapp2.2\BuceoLib.csprojAssemblyReference.cache
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\obj\Debug\netcoreapp2.2\BuceoLib.csproj.CoreCompileInputs.cache
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\obj\Debug\netcoreapp2.2\BuceoLib.AssemblyInfoInputs.cache
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\obj\Debug\netcoreapp2.2\BuceoLib.AssemblyInfo.cs
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\bin\Debug\netcoreapp2.2\BuceoLib.deps.json
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\bin\Debug\netcoreapp2.2\BuceoLib.dll
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\bin\Debug\netcoreapp2.2\BuceoLib.pdb
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\bin\Debug\netcoreapp2.2\HackLib.dll
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\bin\Debug\netcoreapp2.2\System.Web.Mvc.dll
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\bin\Debug\netcoreapp2.2\HackLib.pdb
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\obj\Debug\netcoreapp2.2\BuceoLib.csproj.CopyComplete
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\obj\Debug\netcoreapp2.2\BuceoLib.dll
+Z:\Data\dev\Projects\dotNet\SCUBA\BuceoLib\obj\Debug\netcoreapp2.2\BuceoLib.pdb
